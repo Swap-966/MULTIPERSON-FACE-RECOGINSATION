@@ -1,0 +1,217 @@
+2025-02-14 23:07:39 - INFO -  [INFO] loading encodings...
+2025-02-14 23:11:10 - INFO -  [INFO] loading encodings...
+2025-02-14 23:11:11 - INFO -  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.106.76:5000
+2025-02-14 23:11:11 - INFO -  [33mPress CTRL+C to quit[0m
+2025-02-14 23:13:27 - INFO -  127.0.0.1 - - [14/Feb/2025 23:13:27] "GET / HTTP/1.1" 200 -
+2025-02-14 23:13:27 - INFO -  127.0.0.1 - - [14/Feb/2025 23:13:27] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-02-14 23:13:28 - INFO -  127.0.0.1 - - [14/Feb/2025 23:13:28] "GET /video_raw HTTP/1.1" 200 -
+2025-02-14 23:13:31 - INFO -  127.0.0.1 - - [14/Feb/2025 23:13:31] "GET /video_processed HTTP/1.1" 200 -
+2025-02-14 23:13:33 - INFO -  127.0.0.1 - - [14/Feb/2025 23:13:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-15 00:04:42 - INFO -  [INFO] loading encodings...
+2025-02-15 00:04:43 - INFO -  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.106.76:5000
+2025-02-15 00:04:43 - INFO -  [33mPress CTRL+C to quit[0m
+2025-02-15 00:05:17 - INFO -  127.0.0.1 - - [15/Feb/2025 00:05:17] "GET / HTTP/1.1" 200 -
+2025-02-15 00:05:18 - INFO -  127.0.0.1 - - [15/Feb/2025 00:05:18] "GET /video_raw HTTP/1.1" 200 -
+2025-02-15 00:05:18 - INFO -  127.0.0.1 - - [15/Feb/2025 00:05:18] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-02-15 00:05:20 - INFO -  127.0.0.1 - - [15/Feb/2025 00:05:20] "GET /video_processed HTTP/1.1" 200 -
+2025-02-15 00:05:23 - INFO -  127.0.0.1 - - [15/Feb/2025 00:05:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-15 00:06:35 - INFO -  Dataframe stored in csv file
+2025-02-15 00:06:35 - INFO -  127.0.0.1 - - [15/Feb/2025 00:06:35] "POST /submit HTTP/1.1" 200 -
+2025-02-15 00:06:35 - INFO -  Dataframe stored in csv file
+2025-02-15 00:06:35 - INFO -  127.0.0.1 - - [15/Feb/2025 00:06:35] "POST /submit HTTP/1.1" 200 -
+2025-02-15 00:09:34 - INFO -  [INFO] loading encodings...
+2025-02-15 00:09:35 - INFO -  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.106.76:5000
+2025-02-15 00:09:35 - INFO -  [33mPress CTRL+C to quit[0m
+2025-02-15 00:09:37 - INFO -  127.0.0.1 - - [15/Feb/2025 00:09:37] "GET /video_raw HTTP/1.1" 200 -
+2025-02-15 00:09:38 - INFO -  127.0.0.1 - - [15/Feb/2025 00:09:38] "GET /video_processed HTTP/1.1" 200 -
+2025-02-19 15:14:43 - INFO -  [INFO] loading encodings...
+2025-02-19 15:14:44 - INFO -  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.16.63.48:5000
+2025-02-19 15:14:44 - INFO -  [33mPress CTRL+C to quit[0m
+2025-02-19 15:16:06 - INFO -  [INFO] loading encodings...
+2025-02-19 15:16:06 - INFO -  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.16.63.48:5000
+2025-02-19 15:16:06 - INFO -  [33mPress CTRL+C to quit[0m
+2025-02-19 15:16:23 - INFO -  127.0.0.1 - - [19/Feb/2025 15:16:23] "GET / HTTP/1.1" 200 -
+2025-02-19 15:16:23 - INFO -  127.0.0.1 - - [19/Feb/2025 15:16:23] "GET /video_raw HTTP/1.1" 200 -
+2025-02-19 15:16:23 - INFO -  127.0.0.1 - - [19/Feb/2025 15:16:23] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-02-19 15:16:26 - INFO -  127.0.0.1 - - [19/Feb/2025 15:16:26] "GET /video_processed HTTP/1.1" 200 -
+2025-02-19 15:16:28 - INFO -  127.0.0.1 - - [19/Feb/2025 15:16:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-19 16:32:47 - INFO -  [INFO] loading encodings...
+2025-02-19 16:32:49 - INFO -  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.16.63.48:5000
+2025-02-19 16:32:49 - INFO -  [33mPress CTRL+C to quit[0m
+2025-02-19 16:33:02 - INFO -  127.0.0.1 - - [19/Feb/2025 16:33:02] "GET / HTTP/1.1" 200 -
+2025-02-19 16:33:02 - INFO -  127.0.0.1 - - [19/Feb/2025 16:33:02] "GET /video_raw HTTP/1.1" 200 -
+2025-02-19 16:33:02 - INFO -  127.0.0.1 - - [19/Feb/2025 16:33:02] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-02-19 16:33:04 - INFO -  127.0.0.1 - - [19/Feb/2025 16:33:04] "GET /video_processed HTTP/1.1" 200 -
+2025-02-25 11:50:38 - INFO -  [INFO] loading encodings...
+2025-02-25 11:50:40 - INFO -  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.106.76:5000
+2025-02-25 11:50:40 - INFO -  [33mPress CTRL+C to quit[0m
+2025-02-25 11:50:49 - INFO -  127.0.0.1 - - [25/Feb/2025 11:50:49] "GET / HTTP/1.1" 200 -
+2025-02-25 11:50:49 - INFO -  127.0.0.1 - - [25/Feb/2025 11:50:49] "GET /video_raw HTTP/1.1" 200 -
+2025-02-25 11:50:49 - INFO -  127.0.0.1 - - [25/Feb/2025 11:50:49] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-02-25 11:50:50 - INFO -  127.0.0.1 - - [25/Feb/2025 11:50:50] "GET /video_processed HTTP/1.1" 200 -
+2025-02-25 11:50:52 - INFO -  127.0.0.1 - - [25/Feb/2025 11:50:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-26 17:08:57 - INFO -  [INFO] loading encodings...
+2025-02-26 17:08:59 - INFO -  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.106.76:5000
+2025-02-26 17:08:59 - INFO -  [33mPress CTRL+C to quit[0m
+2025-02-26 17:09:05 - INFO -  127.0.0.1 - - [26/Feb/2025 17:09:05] "GET / HTTP/1.1" 200 -
+2025-02-26 17:09:05 - INFO -  127.0.0.1 - - [26/Feb/2025 17:09:05] "GET /video_raw HTTP/1.1" 200 -
+2025-02-26 17:09:05 - INFO -  127.0.0.1 - - [26/Feb/2025 17:09:05] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-02-26 17:09:06 - INFO -  127.0.0.1 - - [26/Feb/2025 17:09:06] "GET /video_processed HTTP/1.1" 200 -
+2025-02-26 17:09:07 - INFO -  127.0.0.1 - - [26/Feb/2025 17:09:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-26 17:10:24 - INFO -  [INFO] loading encodings...
+2025-02-26 17:10:25 - INFO -  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.106.76:5000
+2025-02-26 17:10:25 - INFO -  [33mPress CTRL+C to quit[0m
+2025-02-26 17:10:29 - INFO -  127.0.0.1 - - [26/Feb/2025 17:10:29] "GET / HTTP/1.1" 200 -
+2025-02-26 17:10:30 - INFO -  127.0.0.1 - - [26/Feb/2025 17:10:30] "GET /video_raw HTTP/1.1" 200 -
+2025-02-26 17:10:30 - INFO -  127.0.0.1 - - [26/Feb/2025 17:10:30] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-02-26 17:10:30 - INFO -  127.0.0.1 - - [26/Feb/2025 17:10:30] "GET /video_processed HTTP/1.1" 200 -
+2025-02-26 17:10:40 - INFO -  127.0.0.1 - - [26/Feb/2025 17:10:40] "GET / HTTP/1.1" 200 -
+2025-02-26 17:10:40 - INFO -  127.0.0.1 - - [26/Feb/2025 17:10:40] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-02-26 17:10:41 - INFO -  127.0.0.1 - - [26/Feb/2025 17:10:41] "GET /video_raw HTTP/1.1" 200 -
+2025-02-26 17:10:42 - INFO -  127.0.0.1 - - [26/Feb/2025 17:10:42] "GET /video_processed HTTP/1.1" 200 -
+2025-02-26 17:10:43 - INFO -  127.0.0.1 - - [26/Feb/2025 17:10:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-26 17:11:38 - INFO -  [INFO] loading encodings...
+2025-02-26 17:11:38 - INFO -  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.106.76:5000
+2025-02-26 17:11:38 - INFO -  [33mPress CTRL+C to quit[0m
+2025-02-26 17:11:42 - INFO -  127.0.0.1 - - [26/Feb/2025 17:11:42] "GET / HTTP/1.1" 200 -
+2025-02-26 17:11:43 - INFO -  127.0.0.1 - - [26/Feb/2025 17:11:43] "GET /video_raw HTTP/1.1" 200 -
+2025-02-26 17:11:43 - INFO -  127.0.0.1 - - [26/Feb/2025 17:11:43] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-02-26 17:11:44 - INFO -  127.0.0.1 - - [26/Feb/2025 17:11:44] "GET /video_processed HTTP/1.1" 200 -
+2025-02-26 17:12:04 - INFO -  127.0.0.1 - - [26/Feb/2025 17:12:04] "GET / HTTP/1.1" 200 -
+2025-02-26 17:12:05 - INFO -  127.0.0.1 - - [26/Feb/2025 17:12:05] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-02-26 17:12:13 - INFO -  127.0.0.1 - - [26/Feb/2025 17:12:13] "GET / HTTP/1.1" 200 -
+2025-02-26 17:12:13 - INFO -  127.0.0.1 - - [26/Feb/2025 17:12:13] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-02-26 17:22:37 - INFO -  [INFO] loading encodings...
+2025-02-26 17:22:37 - INFO -  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.106.76:5000
+2025-02-26 17:22:37 - INFO -  [33mPress CTRL+C to quit[0m
+2025-02-26 17:22:41 - INFO -  127.0.0.1 - - [26/Feb/2025 17:22:41] "GET / HTTP/1.1" 200 -
+2025-02-26 17:22:42 - INFO -  127.0.0.1 - - [26/Feb/2025 17:22:42] "GET /video_raw HTTP/1.1" 200 -
+2025-02-26 17:22:42 - INFO -  127.0.0.1 - - [26/Feb/2025 17:22:42] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-02-26 17:22:43 - INFO -  127.0.0.1 - - [26/Feb/2025 17:22:43] "GET /video_processed HTTP/1.1" 200 -
+2025-02-26 17:26:06 - INFO -  [INFO] loading encodings...
+2025-02-26 17:26:07 - INFO -  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.106.76:5000
+2025-02-26 17:26:07 - INFO -  [33mPress CTRL+C to quit[0m
+2025-02-26 17:26:10 - INFO -  127.0.0.1 - - [26/Feb/2025 17:26:10] "GET / HTTP/1.1" 200 -
+2025-02-26 17:26:10 - INFO -  127.0.0.1 - - [26/Feb/2025 17:26:10] "GET /video_raw HTTP/1.1" 200 -
+2025-02-26 17:26:10 - INFO -  127.0.0.1 - - [26/Feb/2025 17:26:10] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-02-26 17:26:11 - INFO -  127.0.0.1 - - [26/Feb/2025 17:26:11] "GET /video_processed HTTP/1.1" 200 -
+2025-02-26 17:27:38 - INFO -  [INFO] loading encodings...
+2025-02-26 17:27:38 - INFO -  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.106.76:5000
+2025-02-26 17:27:38 - INFO -  [33mPress CTRL+C to quit[0m
+2025-02-26 17:27:45 - INFO -  127.0.0.1 - - [26/Feb/2025 17:27:45] "GET / HTTP/1.1" 200 -
+2025-02-26 17:27:45 - INFO -  127.0.0.1 - - [26/Feb/2025 17:27:45] "GET /video_raw HTTP/1.1" 200 -
+2025-02-26 17:27:45 - INFO -  127.0.0.1 - - [26/Feb/2025 17:27:45] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-02-26 17:27:47 - INFO -  127.0.0.1 - - [26/Feb/2025 17:27:47] "GET /video_processed HTTP/1.1" 200 -
+2025-02-26 17:34:53 - INFO -  [INFO] loading encodings...
+2025-02-26 17:34:53 - INFO -  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.136.76:5000
+2025-02-26 17:34:53 - INFO -  [33mPress CTRL+C to quit[0m
+2025-02-26 17:34:56 - INFO -  127.0.0.1 - - [26/Feb/2025 17:34:56] "GET / HTTP/1.1" 200 -
+2025-02-26 17:34:57 - INFO -  127.0.0.1 - - [26/Feb/2025 17:34:57] "GET /video_raw HTTP/1.1" 200 -
+2025-02-26 17:34:57 - INFO -  127.0.0.1 - - [26/Feb/2025 17:34:57] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-02-26 17:34:58 - INFO -  127.0.0.1 - - [26/Feb/2025 17:34:58] "GET /video_processed HTTP/1.1" 200 -
+2025-02-26 17:35:18 - INFO -  Dataframe stored in csv file
+2025-02-26 17:35:18 - INFO -  Dataframe stored in csv file
+2025-02-26 17:35:18 - INFO -  127.0.0.1 - - [26/Feb/2025 17:35:18] "POST /submit HTTP/1.1" 200 -
+2025-02-26 17:35:18 - INFO -  127.0.0.1 - - [26/Feb/2025 17:35:18] "POST /submit HTTP/1.1" 200 -
+2025-02-26 17:36:20 - INFO -  [INFO] loading encodings...
+2025-02-26 17:36:21 - INFO -  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.136.76:5000
+2025-02-26 17:36:21 - INFO -  [33mPress CTRL+C to quit[0m
+2025-02-26 17:36:26 - INFO -  127.0.0.1 - - [26/Feb/2025 17:36:26] "GET / HTTP/1.1" 200 -
+2025-02-26 17:36:26 - INFO -  127.0.0.1 - - [26/Feb/2025 17:36:26] "GET /video_raw HTTP/1.1" 200 -
+2025-02-26 17:36:26 - INFO -  127.0.0.1 - - [26/Feb/2025 17:36:26] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-02-26 17:36:27 - INFO -  127.0.0.1 - - [26/Feb/2025 17:36:27] "GET /video_processed HTTP/1.1" 200 -
+2025-02-26 17:36:30 - INFO -  Dataframe stored in csv file
+2025-02-26 17:36:30 - INFO -  127.0.0.1 - - [26/Feb/2025 17:36:30] "POST /submit HTTP/1.1" 200 -
+2025-02-26 17:39:17 - INFO -  [INFO] loading encodings...
+2025-02-26 17:39:18 - INFO -  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.136.76:5000
+2025-02-26 17:39:18 - INFO -  [33mPress CTRL+C to quit[0m
+2025-02-26 17:39:21 - INFO -  127.0.0.1 - - [26/Feb/2025 17:39:21] "GET / HTTP/1.1" 200 -
+2025-02-26 17:39:21 - INFO -  127.0.0.1 - - [26/Feb/2025 17:39:21] "GET /video_raw HTTP/1.1" 200 -
+2025-02-26 17:39:21 - INFO -  127.0.0.1 - - [26/Feb/2025 17:39:21] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-02-26 17:39:22 - INFO -  127.0.0.1 - - [26/Feb/2025 17:39:22] "GET /video_processed HTTP/1.1" 200 -
+2025-02-26 17:39:43 - INFO -  127.0.0.1 - - [26/Feb/2025 17:39:43] "GET / HTTP/1.1" 200 -
+2025-02-26 17:39:43 - INFO -  127.0.0.1 - - [26/Feb/2025 17:39:43] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-02-26 17:39:56 - INFO -  [INFO] loading encodings...
+2025-02-26 17:39:56 - INFO -  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.136.76:5000
+2025-02-26 17:39:56 - INFO -  [33mPress CTRL+C to quit[0m
+2025-02-26 17:39:58 - INFO -  127.0.0.1 - - [26/Feb/2025 17:39:58] "GET / HTTP/1.1" 200 -
+2025-02-26 17:39:58 - INFO -  127.0.0.1 - - [26/Feb/2025 17:39:58] "GET /video_raw HTTP/1.1" 200 -
+2025-02-26 17:39:58 - INFO -  127.0.0.1 - - [26/Feb/2025 17:39:58] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-02-26 17:39:59 - INFO -  127.0.0.1 - - [26/Feb/2025 17:39:59] "GET /video_processed HTTP/1.1" 200 -
+2025-02-26 17:40:04 - INFO -  127.0.0.1 - - [26/Feb/2025 17:40:04] "GET / HTTP/1.1" 200 -
+2025-02-26 17:40:04 - INFO -  127.0.0.1 - - [26/Feb/2025 17:40:04] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-02-26 17:40:23 - INFO -  127.0.0.1 - - [26/Feb/2025 17:40:23] "GET / HTTP/1.1" 200 -
+2025-02-26 17:40:23 - INFO -  127.0.0.1 - - [26/Feb/2025 17:40:23] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-02-26 17:40:35 - INFO -  [INFO] loading encodings...
+2025-02-26 17:40:35 - INFO -  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.136.76:5000
+2025-02-26 17:40:35 - INFO -  [33mPress CTRL+C to quit[0m
+2025-02-26 17:40:38 - INFO -  127.0.0.1 - - [26/Feb/2025 17:40:38] "GET / HTTP/1.1" 200 -
+2025-02-26 17:40:38 - INFO -  127.0.0.1 - - [26/Feb/2025 17:40:38] "GET /video_raw HTTP/1.1" 200 -
+2025-02-26 17:40:38 - INFO -  127.0.0.1 - - [26/Feb/2025 17:40:38] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-02-26 17:40:39 - INFO -  127.0.0.1 - - [26/Feb/2025 17:40:39] "GET /video_processed HTTP/1.1" 200 -
+2025-02-26 17:40:55 - INFO -  Dataframe stored in csv file
+2025-02-26 17:40:55 - INFO -  127.0.0.1 - - [26/Feb/2025 17:40:55] "POST /submit HTTP/1.1" 200 -
+2025-02-26 17:45:06 - INFO -  [INFO] loading encodings...
+2025-02-26 17:45:06 - INFO -  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.136.76:5000
+2025-02-26 17:45:06 - INFO -  [33mPress CTRL+C to quit[0m
+2025-02-26 17:45:07 - INFO -  127.0.0.1 - - [26/Feb/2025 17:45:07] "GET / HTTP/1.1" 200 -
+2025-02-26 17:45:07 - INFO -  127.0.0.1 - - [26/Feb/2025 17:45:07] "GET /video_raw HTTP/1.1" 200 -
+2025-02-26 17:45:07 - INFO -  127.0.0.1 - - [26/Feb/2025 17:45:07] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-02-26 17:45:08 - INFO -  127.0.0.1 - - [26/Feb/2025 17:45:08] "GET /video_processed HTTP/1.1" 200 -

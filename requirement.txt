@@ -1,0 +1,8 @@
+click
+dlib
+face-recognition
+face-recognition-models
+imutils
+numpy==1.22.2
+opencv-python
+pillow
